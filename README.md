@@ -2,6 +2,8 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
+https://nocodersallowed.vercel.app
+
 ## Commands
 
 Run the app at [localhost:3000](http://localhost:3000):
